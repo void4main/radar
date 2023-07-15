@@ -1,4 +1,4 @@
-# Radar - uRAD Industrial Radar
+# Radar - uRAD Industrial
 
 Rust port of the uRAD Industrial Radar Python Demo
 
